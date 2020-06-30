@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persons>
+    <person>
+        <name>Jan</name>
+        <surname>Kowalski</surname>
+        <age>12</age>
+        <city>Lublin</city>
+        <contacts>
+            <phone>123123123</phone>
+            <phone>123123</phone> 
+<email>email</email>
+       </contacts>
+    </person>
+    <person>
+        <name>Adam</name>
+        <surname>Nowak</surname>
+        <city>Lublin</city>
+        <contacts>
+            <phone>12310000</phone>
+            <email>adam@gmail.com</email>
+            <icq>12321</icq>
+            <jabber>jbr</jabber>
+        </contacts>
+    </person>
+</persons>
