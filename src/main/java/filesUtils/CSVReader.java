@@ -17,7 +17,7 @@ public class CSVReader {
         File file = new File(path);
         if(FileUtils.getSize(file)>1)
             try {
-                throw new FileSizeToLargeException("file size too large or file does not exists");
+                throw new FileSizeToLargeException("file size too large");
             } catch (FileSizeToLargeException e) {
                 e.printStackTrace();
             }

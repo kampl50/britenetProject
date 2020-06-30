@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1804983b-015e-456b-b97e-51b07f326277" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/britnet.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="1804983b-015e-456b-b97e-51b07f326277" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,7 @@
       <workItem from="1593334640648" duration="24577000" />
       <workItem from="1593453234090" duration="22692000" />
       <workItem from="1593498028919" duration="10267000" />
-      <workItem from="1593512076952" duration="628000" />
+      <workItem from="1593512076952" duration="920000" />
     </task>
     <servers />
   </component>
